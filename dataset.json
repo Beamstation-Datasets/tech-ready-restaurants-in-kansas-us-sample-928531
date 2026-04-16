@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in Kansas, US",
+  "export_job_id": "611da9f8-178b-4063-b307-4cb5856406db",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 928531,
+  "location_name": "Kansas",
+  "location_type": "state",
+  "repo_name": "tech-ready-restaurants-in-kansas-us-sample-928531",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/928531/beamstation_928531_restaurants-us-ks_SAMPLE_DIST.csv",
+  "sample_pct": 5.0,
+  "sample_records": 1,
+  "sample_sha256": "f42e93222117ea5315ddbcf6e0c28c317d1b0ce969ddf1cabd2ca86c53f56719",
+  "sample_size_bytes": 20733,
+  "total_records": 20,
+  "updated_at": "2026-04-08T04:39:21.142951+00:00"
+}
