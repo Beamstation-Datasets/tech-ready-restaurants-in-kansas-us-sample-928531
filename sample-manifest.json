@@ -1,0 +1,12 @@
+{
+  "export_job_id": "611da9f8-178b-4063-b307-4cb5856406db",
+  "id_short": 928531,
+  "published_at": "2026-04-16T19:31:10Z",
+  "repo_name": "tech-ready-restaurants-in-kansas-us-sample-928531",
+  "sample_asset_name": "beamstation_928531_restaurants-us-ks_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/928531/beamstation_928531_restaurants-us-ks_SAMPLE_DIST.csv",
+  "sample_records": 1,
+  "sample_sha256": "f42e93222117ea5315ddbcf6e0c28c317d1b0ce969ddf1cabd2ca86c53f56719",
+  "sample_size_bytes": 20733,
+  "total_records": 20
+}
