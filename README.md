@@ -9,9 +9,9 @@
 | Dataset ID | `928531` |
 | Location | Kansas |
 | Category | Restaurants |
-| Full dataset size | 20 records |
-| Free sample size | 1 records (5.0%) |
-| Last export | 2026-04-08T04:39:21.142951+00:00 |
+| Full dataset size | 9 records |
+| Free sample size | 1 records (11.11%) |
+| Last export | 2026-04-15T09:11:36.167959+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-kansas-us-sample-928531/releases/download/sample-latest/beamstation_928531_restaurants-us-ks_SAMPLE_DIST.csv) |
 
 ## What is in this sample
