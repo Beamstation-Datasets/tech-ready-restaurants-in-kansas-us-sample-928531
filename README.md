@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in Kansas, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 10 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `928531` |
 | Location | Kansas |
 | Category | Restaurants |
-| Full dataset size | 6 records |
-| Free sample size | 1 records (16.67%) |
-| Last export | 2026-04-22T16:25:52.223647+00:00 |
+| Full dataset size | 101 records |
+| Free sample size | 10 records (9.9%) |
+| Last export | 2026-04-29T16:29:46.894086+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-kansas-us-sample-928531/releases/download/sample-latest/beamstation_928531_restaurants-us-ks_SAMPLE_DIST.csv) |
 
 ## What is in this sample
